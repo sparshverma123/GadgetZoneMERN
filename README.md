@@ -53,6 +53,6 @@ Before you begin, make sure you have the following software installed on your sy
 
 
 ![Home](frontend/public/photo1.PNG)
-![Login](frontend/public/photo1.PNG)
+![Login](frontend/public/login.PNG)
 ![Products](frontend/public/photo4.PNG)
 ![Cart](frontend/public/photo5.PNG)
