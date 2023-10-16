@@ -52,7 +52,7 @@ Before you begin, make sure you have the following software installed on your sy
    npm run dev
 
 
-![Home](frontend/public/photo1.png)
-![Login](frontend/img/Login.jpg)
-![Products](frontend/img/Products.jpg)
-![Cart](frontend/img/Cart.jpg)
+![Home](frontend/public/photo1.PNG)
+![Login](frontend/public/photo1.PNG)
+![Products](frontend/public/photo4.PNG)
+![Cart](frontend/public/photo5.PNG)
